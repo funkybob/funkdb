@@ -1,0 +1,7 @@
+[package]
+name = "funkdb"
+version = "0.1.0"
+authors = ["funkybob <curtis@tinbrain.net>",
+  "jahan-addison <jahan.addison@jacata.me>"]
+
+[dependencies]
